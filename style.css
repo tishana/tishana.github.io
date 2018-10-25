@@ -1,6 +1,7 @@
 body{
     background:url("https://images.unsplash.com/photo-1509624776920-0fac24a9dfda?ixlib=rb-0.3.5&s=dd42a6d4c7cb8d0cceb2f184396c889c&auto=format&fit=crop&w=800&q=60");
     font-family: 'Gothic A1', sans-serif;
+
 }
 
 main {
@@ -10,4 +11,10 @@ main {
 
 nav {
     background-color: powderblue;
+}
+.img-circle{
+  padding-top:10%;
+  padding-bottom:10%;
+  height:500px;
+  border-radius: 50%;
 }
