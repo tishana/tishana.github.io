@@ -26,3 +26,9 @@ nav {
   width: 200px;
   height: 100px;
 }
+
+#projects{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
