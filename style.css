@@ -21,6 +21,7 @@ nav {
   padding-bottom:10%; */
   height:500px;
   border-radius: 50%;
+  border: solid #fff;
 }
 
 .img-block{
@@ -79,4 +80,14 @@ nav {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
+}
+div ul{
+  list-style-type: none;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+div p{
+  font-size: 2rem;
+  color: #3d3c3c;
 }
